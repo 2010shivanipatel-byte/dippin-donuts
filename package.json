@@ -1,0 +1,26 @@
+{
+  "name": "dippin-donuts-mobile",
+  "version": "1.0.0",
+  "main": "app.js",
+  "description": "Mobile-first Dippin' Donuts website built with Express.js, EJS, and mobile-optimized design",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["express", "ejs", "mobile", "donuts", "mobile-first"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "daisyui": "^5.0.50",
+    "nodemon": "^3.1.10",
+    "postcss": "^8.5.6",
+    "sass": "^1.90.0",
+    "tailwindcss": "^4.1.12"
+  }
+}
