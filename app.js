@@ -23,7 +23,7 @@ const mobileData = {
         { id: 3, name: 'Star Sstrawberry', price: 3.00, icon: 'fas fa-star' }
     ],
     offers: [
-        { title: 'Buy One Get Free', description: 'Buy any premium donut and get a classic glazed donut absolutely free!' }
+        { title: 'Buy One Get Free', description: 'Buy any premium donut and get a classic chocolate donut absolutely free!' }
     ]
 };
 
