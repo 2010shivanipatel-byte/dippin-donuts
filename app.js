@@ -18,9 +18,9 @@ app.use(express.json());
 // Mobile-specific data
 const mobileData = {
     donuts: [
-        { id: 1, name: 'Classic Glazed', price: 2.50, icon: 'fas fa-circle' },
+        { id: 1, name: 'Classic Chocolate', price: 2.50, icon: 'fas fa-circle' },
         { id: 2, name: 'Chocolate Heart', price: 2.75, icon: 'fas fa-heart' },
-        { id: 3, name: 'Star Special', price: 3.00, icon: 'fas fa-star' }
+        { id: 3, name: 'Star Sstrawberry', price: 3.00, icon: 'fas fa-star' }
     ],
     offers: [
         { title: 'Buy One Get Free', description: 'Buy any premium donut and get a classic glazed donut absolutely free!' }
