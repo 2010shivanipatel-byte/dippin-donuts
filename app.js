@@ -89,7 +89,7 @@ app.get('/product', (req, res) => {
 // 6. Offers Page - Heading + Buy One Get Free + Image + Select button
 app.get('/offers', (req, res) => {
     res.render('layout', {
-        title: 'Special Offers',
+        title: 'BOGO Offers',
         body: res.render('pages/offers', {
             offer: mobileData.offers[0]
         }, (err, html) => {
