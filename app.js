@@ -153,7 +153,7 @@ app.post('/api/contact', (req, res) => {
     
     console.log('Mobile Contact Form Submission:', {
         name,
-        email,
+        email address,
         contact,
         address,
         timestamp: new Date(),
