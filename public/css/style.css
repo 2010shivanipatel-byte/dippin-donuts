@@ -157,7 +157,7 @@ input:focus, textarea:focus {
 /* Responsive adjustments */
 @media (max-width: 320px) {
     .mobile-container {
-        max-width: 100%;
+        max-width: 50%;
     }
     
     .nav-buttons {
